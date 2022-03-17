@@ -3,3 +3,4 @@ here is second line
 Adding content to file2.txt
 Adding extra line using Git editor remotely
 Adding fifth line using Git editor
+Adding sixth line using notepad file.
